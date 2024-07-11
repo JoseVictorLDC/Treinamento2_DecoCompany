@@ -18,4 +18,4 @@ Utilizamos uma combinação de técnicas de Machine Learning, incluindo análise
 Com a implementação do novo algoritmo, esperamos uma melhoria significativa na precisão das estimativas de tempo de entrega, reduzindo erros e aumentando a eficiência operacional. Além disso, a maior precisão nas previsões deve levar a um aumento na atração e retenção de clientes, fortalecendo a posição competitiva da De & Company no mercado.
 
 ### Como utilizar o programa
-Para utilizar o programa é muito simples: apenas baixar esse repositório e abrir o arquivo denominado "arquivoFinal.ipynb" e depois clicar em "executar tudo". Após algum tempo ele enviará a previsão para a pasta resultadoPrevisoes. Por fim, não esqueça de alterar a planilha de analise e verique se ela contem as mesmas colunas que a utlizada no projeto.
+Para utilizar o programa é muito simples: apenas baixar esse repositório e abrir o arquivo denominado "arquivoFinal.ipynb" e depois clicar em "executar tudo". Após algum tempo ele enviará a previsão para a pasta resultadoPrevisoes. Por fim, não esqueça de alterar a planilha de analise e verique se ela contém as mesmas colunas que a utlizada no projeto.
